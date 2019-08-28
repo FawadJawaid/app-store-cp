@@ -1,0 +1,8 @@
+
+	Application Name: Bloxers
+	Application ID: 1131
+	Application Language: English
+	App's Developer Name: Gerad
+	Application's Version: 2
+	Size of Application: 123
+	Compatible Platform: Apple/Android

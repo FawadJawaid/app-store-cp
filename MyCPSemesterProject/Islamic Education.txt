@@ -1,0 +1,8 @@
+
+	Application Name: Sirat-e-Mustaqim Pdf
+	Application ID: 1161
+	Application Language: Urdu
+	App's Developer Name: Aziz
+	Application's Version: 2
+	Size of Application: 23
+	Compatible Platform: Android

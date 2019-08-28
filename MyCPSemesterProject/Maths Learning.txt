@@ -1,0 +1,8 @@
+
+	Application Name: Easy Mathematics
+	Application ID: 1141
+	Application Language: English
+	App's Developer Name: Howard
+	Application's Version: 4
+	Size of Application: 232
+	Compatible Platform: Apple

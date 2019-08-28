@@ -1,0 +1,8 @@
+
+                   Application Name: Dark Knight Rises BoxOffice
+	 Application ID: 1191
+	 Application Language: English
+	 App's Developer Name: John Carter
+	 Application's Version: 2
+	 Size of Application: 133
+	 Compatible Platform: Apple/Android

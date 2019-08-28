@@ -1,0 +1,8 @@
+
+	Application Name: Muslims Burnt in Burma
+	Application ID: 1171
+	Application Language: English
+	App's Developer Name: Fawad
+	Application's Version: 2
+	Size of Application: 123
+	Compatible Platform: Apple/Android

@@ -1,0 +1,8 @@
+
+                   Application Name: Street Fighter
+	 Application ID: 1111
+	 Application Language: English
+	 App's Developer Name: Jack
+	 Application's Version: 4
+	 Size of Application: 232
+	 Compatible Platform: Apple/Android

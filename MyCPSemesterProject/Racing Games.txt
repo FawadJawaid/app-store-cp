@@ -1,0 +1,8 @@
+	
+	 Application Name: Need for Speed
+	 Application ID: 1121
+	 Application Language: English
+	 App's Developer Name: Jack and Joe
+	 Application's Version: 4
+	 Size of Application: 236
+	 Compatible Platform: Apple/Android

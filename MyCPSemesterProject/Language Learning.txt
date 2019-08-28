@@ -1,0 +1,8 @@
+
+	Application Name: English Language
+	Application ID: 1151
+	Application Language: English
+	App's Developer Name: Howard
+	Application's Version: 4
+	Size of Application: 232
+	Compatible Platform: Apple
